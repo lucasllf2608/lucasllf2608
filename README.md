@@ -1,3 +1,4 @@
+
 ### Olá! Eu sou o Lucas de Lima 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaslimf/)
@@ -14,6 +15,7 @@
   </p>
 </div>
 
+<hr/>
 
 ### Tecnologias que eu uso no meu dia
 <div style="display:inline_block">
