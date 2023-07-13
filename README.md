@@ -1,4 +1,10 @@
-### Hi there 👋
+### Olá! Eu sou o Lucas de Lima 👋
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaslimf/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-lima-freire-8101b2b7/)
+
+
+
 
 <!--
 **lucasllf2608/lucasllf2608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
