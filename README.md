@@ -4,6 +4,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-de-lima-freire-8101b2b7/)
 
 
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasllf2608&show_icons=true&theme=transparent)
+
 ### Quem sou eu ?
 <div style="display:inline_block">
   <p>
@@ -28,8 +30,8 @@
 
 <div style="display:inline_block">
    <img alt="php"  align="center" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-   <img alt="php"  align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  
+   <img alt="CSharp"  align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img alt="Bootstrap"  align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
 <!--
