@@ -6,9 +6,6 @@
 </div>
 
 <br>
-
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasllf2608&show_icons=true&theme=transparent)
-
 ---
 
 Profissional com mais de 11 anos de trajetória na área de tecnologia. Iniciei minha jornada em 2014 como **QA (Quality Assurance)**, consolidando uma base sólida em garantia de qualidade e confiabilidade de sistemas. Em 2018, migrei para o **Desenvolvimento de Software**, com foco em aplicações web e backend. 
